@@ -1,0 +1,23 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbuteer0/profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbuteer0/profile/issues"
+  },
+  "homepage": "https://github.com/jbuteer0/profile#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.0"
+  }
+}
